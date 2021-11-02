@@ -9,6 +9,10 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
+  "engines": {
+    "node": "12.19.0",
+    "npm": "8.1.1"
+  },
   "private": true,
   "optionalDependencies": {
     "fsevents": "2.3.2"
